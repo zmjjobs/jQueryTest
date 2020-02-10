@@ -1,205 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dce3124c-4de4-41c2-ad8d-16c04e8252c6" name="Default Changelist" comment="优化结构">
-      <change afterPath="$PROJECT_DIR$/.idea/jQueryTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/46-弹窗广告.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/48-jQuery的stop和delay方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/images/ad-pic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/01_初识jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/01_初识jQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/02_jQuery的2把利器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/02_jQuery的2把利器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/03_jQuery核心函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/03_jQuery核心函数.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/04_jQuery对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/04_jQuery对象.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/05_基本选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/05_基本选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/06_层次选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/06_层次选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/07_过滤选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/07_过滤选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/08_表单选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/08_表单选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/09_$工具方法.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/09_$工具方法.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/10_属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/10_属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/11_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/11_css.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/12_offset和position.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/12_offset和position.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/13_元素滚动.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/13_元素滚动.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/14_元素的尺寸.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/14_元素的尺寸.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/15_筛选_过滤.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/15_筛选_过滤.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/16_筛选_查找孩子-父母-兄弟标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/16_筛选_查找孩子-父母-兄弟标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/17_文档_增删改.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/17_文档_增删改.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/18_事件绑定与解绑.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/18_事件绑定与解绑.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/19_事件_面试题.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/19_事件_面试题.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/20_事件委派1_引入.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/20_事件委派1_引入.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/20_事件委派2.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/20_事件委派2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/21_淡入淡出.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/21_淡入淡出.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/22_滑动.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/22_滑动.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/23_显示与隐藏.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/23_显示与隐藏.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/24_自定义动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/24_自定义动画.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/25_扩展插件.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/25_扩展插件.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/26_多库共存.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/26_多库共存.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/27_onload与ready.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/27_onload与ready.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/01__表格隔行变色.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/01__表格隔行变色.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/02_多Tab点击切换.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/02_多Tab点击切换.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/03_回到顶部.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/03_回到顶部.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/04_导航动态显示效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/04_导航动态显示效果.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/40-对联广告.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/40-对联广告.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/img/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/img/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/img/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/left_ad.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础/images/left_ad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/img/right_ad.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础/images/right_ad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/练习1_爱好选择器_jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/练习1_爱好选择器_jQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/练习1_爱好选择器_原生.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/练习1_爱好选择器_原生.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/练习3_轮播图_jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/练习3_轮播图_jQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ChangJianXiaoGuo/练习3_轮播图_原生.html" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/练习3_轮播图_原生.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/common_07.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/common_07.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/product.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/product_left.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/product_left.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/product_right.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/product_right.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/product_right_detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/product_right_detail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/css/product_right_more.css" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/css/product_right_more.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/5464795dN8179a200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/5464795dN8179a200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/546ab63aNaa4d5732.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/546ab63aNaa4d5732.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/app_jd_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/app_jd_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/app_jd_erwei.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/app_jd_erwei.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/app_jd_wangyin.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/app_jd_wangyin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/avatar-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/avatar-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/baitiao_fq.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/baitiao_fq.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/cate_banner_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/cate_banner_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/cate_banner_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/cate_banner_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/cx.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/cx.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/cy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/cy.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/dakehu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/dakehu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/error-jd.gif" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/error-jd.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/gw01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/gw01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/gwc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/gwc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/iconlist_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/iconlist_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/images/search_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/images/search_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/images/search_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/images/search_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/images/search_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/images/search_04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/images/search_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/images/search_05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/input.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/input.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/input01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/input01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jt_down.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jt_down.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jt_up.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jt_up.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jtr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jtr.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jwy_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jwy_03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/jy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/jy.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/kx.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/kx.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/loading-jd.gif" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/loading-jd.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/logo-201305.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/logo-201305.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/nav_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/nav_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/phone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/phone.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/left_p001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/left_p001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/left_p002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/left_p002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/left_p003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/left_p003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_icon_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_icon_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_icon_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_icon_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/p_small_009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/p_small_009.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s1-l.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s1-l.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s1-m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s1-m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s2-l.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s2-l.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s2-m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s2-m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s3-l.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s3-l.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s3-m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s3-m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s4-l.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s4-l.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s4-m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s4-m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product-s9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product-s9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_01_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_01_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_02_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_02_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_03_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_03_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_04_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_04_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_05_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_05_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_06_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_06_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_07_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_07_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_08_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_08_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_09_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_09_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/product_10_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/product_10_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/search_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/search_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/search_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/search_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/search_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/search_04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/search_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/search_05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/show_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/show_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/show_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/show_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/show_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/show_03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/weilushi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/weilushi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/products/weilushi_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/products/weilushi_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/promise.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/promise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/ps02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/ps02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/search.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/search.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/sh04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/sh04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/star.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/star.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/tab.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/tab.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/ts05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/ts05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/update.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/update.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/user_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/user_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/vip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/vip.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/words.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/words.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/youjiantou.png" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/youjiantou.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/images/zf03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/images/zf03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/jd_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/jd_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/ZongHeLianXi/js/jquery-1.10.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-1.10.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础/css/jquery-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/jQueryUI_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/jQueryUI_test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/jQueryValidate_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/jQueryValidate_test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-1.10.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/js/jquery-1.10.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-1.11.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-1.11.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-1.12.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-1.12.3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-1.12.4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/jquery.validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/laydate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/need/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/need/laydate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/dahong/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/dahong/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/dahong/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/dahong/laydate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/default/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/default/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/default/laydate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/molv/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/molv/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/laydate/skins/molv/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/laydate/skins/molv/laydate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/myLib.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/myLib.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/my_jQuery-plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/my_jQuery-plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/js/njQuery-1.4.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础/js/njQuery-1.4.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/laydate_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础/laydate_test.html" afterDir="false" />
+    <list default="true" id="dce3124c-4de4-41c2-ad8d-16c04e8252c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文档/jQuery1.11.3 中文手册.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/body_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/inputBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/game_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/icon_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/myrank_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/images/x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/综合案例/狂拍灰太狼/js/jquery-1.12.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jQuery1.7中文手册.chm" beforeDir="false" afterPath="$PROJECT_DIR$/文档/jQuery1.7中文手册.chm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/01__表格隔行变色.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/01__表格隔行变色.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/01_初识jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/01_初识jQuery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/02_jQuery的2把利器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/02_jQuery的2把利器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/02_多Tab点击切换.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/02_多Tab点击切换.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/03_jQuery核心函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/03_jQuery核心函数.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/03_回到顶部.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/03_回到顶部.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/04_jQuery对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/04_jQuery对象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/04_导航动态显示效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/04_导航动态显示效果.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/05_基本选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/05_基本选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/06_层次选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/06_层次选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/07_过滤选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/07_过滤选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/08_表单选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/08_表单选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/09_$工具方法.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/09_$工具方法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/10_属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/10_属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/11_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/11_css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/12_offset和position.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/12_offset和position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/13_元素滚动.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/13_元素滚动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/14_元素的尺寸.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/14_元素的尺寸.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/15_筛选_过滤.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/15_筛选_过滤.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/16_筛选_查找孩子-父母-兄弟标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/16_筛选_查找孩子-父母-兄弟标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/17_文档_增删改.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/17_文档_增删改.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/18_事件绑定与解绑.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/18_事件绑定与解绑.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/19_事件_面试题.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/19_事件_面试题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/20_事件委派1_引入.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/20_事件委派1_引入.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/20_事件委派2.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/20_事件委派2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/21_淡入淡出.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/21_淡入淡出.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/22_滑动.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/22_滑动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/23_显示与隐藏.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/23_显示与隐藏.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/24_自定义动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/24_自定义动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/25_扩展插件.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/25_扩展插件.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/26_多库共存.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/26_多库共存.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/27_onload与ready.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/27_onload与ready.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/40-对联广告.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/40-对联广告.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/46-弹窗广告.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/46-弹窗广告.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/48-jQuery的stop和delay方法.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/48-jQuery的stop和delay方法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/images/ad-pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/images/ad-pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/images/left_ad.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/images/left_ad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/images/right_ad.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/images/right_ad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/jQueryUI_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/jQueryUI_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/jQueryValidate_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/jQueryValidate_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-1.10.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-1.10.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-1.11.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-1.11.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-1.12.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-1.12.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-1.12.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/need/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/need/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/dahong/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/dahong/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/dahong/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/dahong/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/default/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/default/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/molv/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/molv/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/laydate/skins/molv/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/laydate/skins/molv/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/myLib.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/myLib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/my_jQuery-plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/my_jQuery-plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/js/njQuery-1.4.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/js/njQuery-1.4.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/laydate_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/laydate_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/练习1_爱好选择器_jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/练习1_爱好选择器_jQuery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/练习1_爱好选择器_原生.html" beforeDir="false" afterPath="$PROJECT_DIR$/基础点/练习1_爱好选择器_原生.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/综合案例/京东详情/jd_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/京东详情/jd_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/综合案例/轮播图/练习3_轮播图_jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/综合案例/轮播图/练习3_轮播图_jQuery.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -211,60 +124,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/18_事件绑定与解绑.html">
+        <entry file="file://$PROJECT_DIR$/基础点/40-对联广告.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2231">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="817">
+              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/19_事件_面试题.html">
+        <entry file="file://$PROJECT_DIR$/基础点/46-弹窗广告.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+            <state relative-caret-position="722">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/js/njQuery-1.4.0.js">
+        <entry file="file://$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3040">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/40-对联广告.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基础/46-弹窗广告.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/48-jQuery的stop和delay方法.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="-654">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -272,19 +155,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/综合案例/京东详情/jd_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2546">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="1139" selection-start-line="1139" selection-end-line="1139" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="64" column="11" lean-forward="true" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/综合案例/轮播图/app.js">
+        <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="-1254">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础点/48-jQuery的stop和delay方法.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1539">
+              <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -305,13 +220,19 @@
         <option value="$PROJECT_DIR$/webapp/ZongHeLianXi/京东详情/jd_detail.html" />
         <option value="$PROJECT_DIR$/webapp/综合案例/京东详情/jd_detail.html" />
         <option value="$PROJECT_DIR$/基础/40-对联广告.html" />
+        <option value="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/index2.js" />
+        <option value="$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/index.html" />
+        <option value="$PROJECT_DIR$/综合案例/京东详情/jd_detail.html" />
+        <option value="$PROJECT_DIR$/综合案例/狂拍灰太狼/js/index.html" />
+        <option value="$PROJECT_DIR$/综合案例/狂拍灰太狼/index.html" />
+        <option value="$PROJECT_DIR$/综合案例/狂拍灰太狼/js/index.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="307" />
-    <option name="y" value="46" />
-    <option name="width" value="1346" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="51" />
+    <option name="width" value="1076" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -322,7 +243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,33 +255,56 @@
               <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
               <item name="综合案例" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+              <item name="综合案例" type="462c0819:PsiDirectoryNode" />
+              <item name="狂拍灰太狼" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+              <item name="综合案例" type="462c0819:PsiDirectoryNode" />
+              <item name="狂拍灰太狼" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+              <item name="综合案例" type="462c0819:PsiDirectoryNode" />
+              <item name="狂拍灰太狼" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/综合案例/狂拍灰太狼/js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\jQueryTest\综合案例\狂拍灰太狼\js" />
+      <recent name="D:\WebstormProjects\jQueryTest\综合案例\狂拍灰太狼" />
+      <recent name="D:\WebstormProjects\jQueryTest\综合案例" />
+      <recent name="D:\WebstormProjects\jQueryTest\文档" />
+      <recent name="D:\WebstormProjects\jQueryTest\plugins" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\jQueryTest\综合案例\狂拍灰太狼" />
+      <recent name="D:\WebstormProjects\jQueryTest\综合案例\狂拍灰太狼\js" />
+      <recent name="D:\WebstormProjects\jQueryTest\文档" />
       <recent name="D:\WebstormProjects\jQueryTest\webapp" />
       <recent name="D:\WebstormProjects\jQueryTest" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\images" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\综合案例\轮播图" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\ZongHeLianXi\京东详情" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WebstormProjects\jQueryTest\webapp" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\ChangJianXiaoGuo\img" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\ChangJianXiaoGuo" />
-      <recent name="D:\WebstormProjects\jQueryTest\webapp\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -386,7 +329,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581236264738</updated>
-      <workItem from="1581236266338" duration="7589000" />
+      <workItem from="1581236266338" duration="14479000" />
+      <workItem from="1581300872519" duration="3825000" />
     </task>
     <task id="LOCAL-00001" summary="滚动到一定位置两端显示隐藏广告">
       <created>1581249023854</created>
@@ -395,23 +339,26 @@
       <option name="project" value="LOCAL" />
       <updated>1581249023855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="优化结构">
+      <created>1581253761805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581253761805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7589000" />
+    <option name="totallyTimeSpent" value="18304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="307" y="46" width="1346" height="688" extended-state="0" />
+    <frame x="650" y="32" width="1076" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2178899" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23217726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.54774773" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -419,6 +366,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.25045046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -433,21 +385,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="优化结构" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/基础/18_事件绑定与解绑.html">
+    <entry file="file://$PROJECT_DIR$/基础点/18_事件绑定与解绑.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2231">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/js/njQuery-1.4.0.js">
+    <entry file="file://$PROJECT_DIR$/基础点/js/njQuery-1.4.0.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3040">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/js/jquery-1.12.4.js">
+    <entry file="file://$PROJECT_DIR$/基础点/js/jquery-1.12.4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-76">
           <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -457,17 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/19_事件_面试题.html">
+    <entry file="file://$PROJECT_DIR$/基础点/19_事件_面试题.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
           <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/综合案例/京东详情/jd_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2546">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -481,16 +426,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/40-对联广告.html">
+    <entry file="file://$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/index2.js" />
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/images/game_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础点/40-对联广告.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        <state relative-caret-position="817">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/48-jQuery的stop和delay方法.html">
+    <entry file="file://$PROJECT_DIR$/基础点/46-弹窗广告.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="722">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础点/48-jQuery的stop和delay方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
           <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -498,12 +457,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/46-弹窗广告.html">
+    <entry file="file://$PROJECT_DIR$/综合案例/京东详情/jd_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="266">
+          <caret line="1139" selection-start-line="1139" selection-end-line="1139" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/新浪微博发布内容显示在页面上/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/images/h.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/综合案例/狂拍灰太狼/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="64" column="11" lean-forward="true" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
